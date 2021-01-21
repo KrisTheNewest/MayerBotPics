@@ -205,7 +205,7 @@
         "links": {
             "weibo": "https://weibo.com/yoomario",
             "pixiv": "https://www.pixiv.net/users/3235102",
-            "twitter": null,
+            "twitter": "https://twitter.com/hohoanime",
             "other": null
         },
         "charIDs": [
@@ -367,7 +367,8 @@
             "char_158_milu",
             "char_405_absin",
             "char_415_flint",
-            "char_451_robin"
+            "char_451_robin",
+            "char_402_tuye"
         ]
     },
     "Cenm0": {
