@@ -651,7 +651,7 @@
             "weibo": "https://weibo.com/skadels",
             "pixiv": "https://www.pixiv.net/users/25193",
             "twitter": "https://twitter.com/skadels",
-            "other": null
+            "other": "https://skade.lofter.com/"
         },
         "charIDs": [
             "char_501_durin",
@@ -777,6 +777,20 @@
         },
         "charIDs": [
             "char_222_bpipe"
+        ]
+    },
+    "Ubisoft": {
+        "links": {
+            "weibo": null,
+            "pixiv": null,
+            "twitter": null,
+            "other": null
+        },
+        "charIDs": [
+            "char_456_ash",
+            "char_457_blitz",
+            "char_458_rfrost",
+            "char_459_tachak"
         ]
     },
     "YUJI": {
